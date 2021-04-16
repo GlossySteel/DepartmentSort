@@ -1,6 +1,5 @@
 //   Assignment: ASU CSE205 Spring 2021 #8
 //         Name: Joseph Kharzo
-//    StudentID: 1218555299
 //      Lecture: (TTH) 1:30-2:45 
 //  Description: Uses a bubble sort to arrange the departments' information.
 
