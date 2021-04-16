@@ -1,6 +1,5 @@
 //   Assignment: ASU CSE205 Spring 2021 #8
 //         Name: Joseph Kharzo
-//    StudentID: 1218555299
 //      Lecture: (TTH) 1:30-2:45 
 //  Description: The DeptManagement class conatins a list of all the departments.
 //               The class also contains multiple methods that perform various
